@@ -56,25 +56,6 @@ The system matches this profile against a structured, continuously updated knowl
 4. **Ranking & explanation** - Matches are ranked by benefit value and deadline urgency, each shown with a plain language reason and a document checklist.
 5. **Action** - Student gets direct links to apply, can save/bookmark schemes, and (stretch) opt in to reminders.
 
-```
-User Input (text)
-      │
-      ▼
-NLP Extraction (LLM)
-      │
-      ▼
-Structured Profile (JSON)
-      │
-      ▼
-Rule Engine + RAG Retrieval over Scheme DB
-      │
-      ▼
-Ranked Matches with Explanations
-      │
-      ▼
-Results UI (cards: deadline, documents, apply link)
-```
-
 ---
 
 ## Technical Architecture & Tech Stack
