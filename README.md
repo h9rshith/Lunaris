@@ -168,12 +168,6 @@ This project doesn't need sensitive personal data or large historical datasets, 
 
 ---
 
-##  Key Challenges & Mitigations
-
----UPDATE PENDING---
-
----
-
 ##  Expected Impact
 
 - Converts a fragmented, multi hour research task into a **two-minute conversation**.
