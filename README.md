@@ -42,7 +42,7 @@ The system matches this profile against a structured, continuously updated knowl
 | **Eligibility matching engine**          | Structured rule matching (income slabs, category, state, course) combined with LLM reasoning for nuanced/soft criteria.                                            |
 | **Explainable results**                  | Every match shows _why_ the student qualifies (e.g. "You match because: Telangana domicile + OBC + income under ₹2.5L"), and every non-match shows what's missing. |
 | **Deadline & document tracker**          | Each result includes application deadline, a required documents checklist, and a direct link to apply.                                                             |
-| **Multilingual support**                 | Regional language input/output (starting with Telugu/Hindi) so English literacy isn't a barrier.                                                                   |
+| **AI Chatbots**                 | Integrated an AI chatbot powered by Featherless AI to provide users with personalized assistance in discovering and understanding relevant opportunities.                                                                   |
 | **Personalized alerts** _(stretch)_      | Opt in reminders when a new scheme matching the student's saved profile is published.                                                                              |
 | **Counsellor/NGO dashboard** _(stretch)_ | Bulk upload a list of students; get matches for an entire classroom or district at once.                                                                           |
 
