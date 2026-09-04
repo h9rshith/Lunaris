@@ -14,7 +14,7 @@ India runs thousands of scholarships, grants, fee waivers, and welfare schemes a
 - There's no single interface where a student can describe themselves in plain words and get a personalised match list.
 - Deadlines are missed simply because **no one knew the scheme existed** in the first place.
 
-This disproportionately affects first-generation learners, rural students, and those without access to career counsellors, the people who need these schemes most, and are least equipped to find them.
+This disproportionately affects first generation learners, rural students, and those without access to career counsellors, the people who need these schemes most, and are least equipped to find them.
 
 **This is a discovery problem, not an eligibility problem.** The money and opportunity already exist; people just never find out they qualify.
 
@@ -38,7 +38,7 @@ The system matches this profile against a structured, continuously-updated knowl
 
 | Feature                                  | Description                                                                                                                                                        |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Conversational intake**                | Free-text or voice input - no rigid multi-page forms. Follow-up questions asked only when needed to disambiguate eligibility.                                      |
+| **Conversational intake**                | Free text or voice input - no rigid multi-page forms. Follow-up questions asked only when needed to disambiguate eligibility.                                      |
 | **Eligibility matching engine**          | Structured rule-matching (income slabs, category, state, course) combined with LLM reasoning for nuanced/soft criteria.                                            |
 | **Explainable results**                  | Every match shows _why_ the student qualifies (e.g. "You match because: Telangana domicile + OBC + income under ₹2.5L"), and every non-match shows what's missing. |
 | **Deadline & document tracker**          | Each result includes application deadline, a required-documents checklist, and a direct link to apply.                                                             |
